@@ -1,4 +1,3 @@
-![logo](https://drive.google.com/file/d/15xJhtbF8Wf6V9g83D9WEYC3nHq4G2hwR/view?usp=drivesdk)
 ------------------------------------
 Versi Indonesia
 
@@ -35,6 +34,6 @@ Happy Playing Bot:)
 ------------------------------------
 DONASI
 
-DANA : 085876330812
+GOPAY : 081217171129
 
-PULSA : 085876330812
+PULSA : 081217171129
